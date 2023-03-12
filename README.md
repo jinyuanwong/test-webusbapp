@@ -1,14 +1,19 @@
-# test-webusbapp
+# Test WebUSB App
 
-View here: https://jinyuanwong.github.io/test-webusbapp/
+> View the live demo [here](https://jinyuanwong.github.io/test-webusbapp/)
 
-This Web Application enable to read the device info:
+## Description
+
+This web application enables you to read device information such as:
+
 - Manufacturer
 - Product
 - Serial number
 - Vendor ID
 - Product ID
 
-Dependences:
-- [usb](https://github.com/node-usb/node-usb)
+## Dependencies
 
+- [USB](https://github.com/node-usb/node-usb)
+
+Enjoy using the app!
