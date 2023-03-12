@@ -17,3 +17,6 @@ This web application enables you to read device information such as:
 - [USB](https://github.com/node-usb/node-usb)
 
 Enjoy using the app!
+
+___Jinyuan Wang___
+__2023.03.12__
