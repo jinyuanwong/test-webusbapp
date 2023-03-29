@@ -7,7 +7,7 @@
 1. `git clone https://github.com/jinyuanwong/test-webusbapp.git`
 2. use chrome to open file ./index.html
 
-## Description
+# Description
 
 This web application enables you to read device information such as:
 
@@ -17,10 +17,10 @@ This web application enables you to read device information such as:
 - Vendor ID
 - Product ID
 
-## Dependencies
+# Dependencies
 
 - [USB](https://github.com/node-usb/node-usb)
-
+- node.js: 18.15.0
 
 # Issues
 
