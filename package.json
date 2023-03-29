@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "usb": "^2.8.3"
+    "usb": "^2.9.0"
   }
 }
